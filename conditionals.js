@@ -9,5 +9,8 @@ else if(score < passingGrade) {
 }
 
 if (score === 100){
-    console.log("Perfect Score!!!");
+    console.log("COngratulations, You have a Perfect Score!!!");
 }
+
+if (score != 100) {
+    console.log("Sorry, you dont have the perfect score")
