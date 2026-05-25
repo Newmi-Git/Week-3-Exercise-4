@@ -14,3 +14,6 @@ if (score === 100){
 
 if (score != 100) {
     console.log("Sorry, you dont have the perfect score")
+
+//Purrity did conditional on Perfect Score
+//Yaghya did conditional on the Passing Grade
