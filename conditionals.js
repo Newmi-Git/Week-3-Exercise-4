@@ -4,7 +4,7 @@ const passingGrade = 60;
 if (score >= passingGrade) {
     console.log("Passed");
 }
-else {
+else if(score < passingGrade) {
     console.log("Failed");
 }
 
